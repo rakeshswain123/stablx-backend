@@ -1,0 +1,25 @@
+{
+  "name": "alternative-to",
+  "version": "1.0.0",
+  "description": "Scrapte alternativeto.net and give top 100 links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "npm",
+    "alternativeto",
+    "web-scraping"
+  ],
+  "author": "salif-04",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "html-tablify": "^2.0.2",
+    "jsonexport": "^3.0.1",
+    "jssoup": "0.0.12",
+    "nodemon": "^2.0.6",
+    "request": "^2.88.2"
+  }
+}
