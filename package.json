@@ -12,7 +12,7 @@
     "alternativeto",
     "web-scraping"
   ],
-  "author": "salif-04",
+  "author": "rakesh",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
